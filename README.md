@@ -6,8 +6,6 @@ Welcome to my GitHub profile! I'm an aspiring software developer passionate abou
 
 I enjoy turning ideas into working software and developing projects that strengthen my programming and software engineering skills.
 
----
-
 ## 👨‍💻 About Me
 
 - 🎓 I'm a fresher aspiring to build a career in software development.
@@ -17,20 +15,10 @@ I enjoy turning ideas into working software and developing projects that strengt
 - 🎯 My goal is to become a skilled software developer and contribute to meaningful projects.
 - 🤝 I'm open to learning opportunities, collaboration, and connecting with other developers.
 
----
-
-## 🛠️ Technical Skills
-
 ### Programming Languages
-
-\<!-- Keep only the languages you know or are learning. -->
-
 - Python
 
 ### Web Technologies
-
-\<!-- Update this list according to your skills. -->
-
 - HTML5
 - CSS3
 
@@ -42,16 +30,7 @@ I enjoy turning ideas into working software and developing projects that strengt
 
 ### Databases
 
-\<!-- Add databases you have studied or used. -->
-
 - SQL
-
----
-
-\<!-- Replace these examples with your actual projects and repository links. -->
-
-
----
 
 ## 📚 Currently Learning
 
@@ -60,19 +39,11 @@ I enjoy turning ideas into working software and developing projects that strengt
 - Learning software development best practices.
 - Building practical projects and improving my Git workflow.
 
----
-
-\<!-- Optional: These cards use an external service. Remove this section if they do not load. -->
-
----
-
 ## 🤝 Connect With Me
 
 - 💻 GitHub: [sai-biranchi-narayan](https://github.com/sai-biranchi-narayan)
 - 💼 LinkedIn: [https://www.linkedin.com/in/sai-biranchi-narayan-samal-5bab80431?utm_source=share_via&utm_content=profile&utm_medium=member_android]
 - 📧 Email: [saibiranchinarayansamal@gmail.com]
-
----
 
 ## 💡 My Motto
 
