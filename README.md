@@ -42,7 +42,7 @@ I enjoy turning ideas into working software and developing projects that strengt
 ## 🤝 Connect With Me
 
 - 💻 GitHub: [sai-biranchi-narayan](https://github.com/sai-biranchi-narayan)
-- 💼 LinkedIn: [https://www.linkedin.com/in/sai-biranchi-narayan-samal-5bab80431?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+- 💼 LinkedIn: [https://www.linkedin.com/in/sai-biranchi-narayan-samal-5bab80431/?isSelfProfile=true]
 - 📧 Email: [saibiranchinarayansamal@gmail.com]
 
 ## 💡 My Motto
